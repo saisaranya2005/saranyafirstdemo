@@ -1,4 +1,4 @@
-# saranyafirstdemo
-This is my first learning git repository
-<br>
-Author-Sai Saranya M
+# Git Practice 
+Author: Sai Saranya Mulukutla
+<br></br>
+Date: 20-04-2026
